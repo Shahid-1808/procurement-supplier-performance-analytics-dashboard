@@ -152,3 +152,11 @@ Skills Demonstrated
 
 ✓ Business Intelligence
 
+## Tech Stack
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
+- Star Schema Data Modeling
+
