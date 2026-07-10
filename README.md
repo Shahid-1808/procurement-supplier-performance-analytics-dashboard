@@ -132,3 +132,23 @@ Project Structure
 
 📄 Supplier Scorebook.xlsx
 
+Skills Demonstrated
+
+✓ Data Cleaning
+
+✓ Data Modeling
+
+✓ Power Query
+
+✓ DAX
+
+✓ KPI Design
+
+✓ Dashboard Design
+
+✓ Procurement Analytics
+
+✓ Supplier Analytics
+
+✓ Business Intelligence
+
