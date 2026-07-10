@@ -1,10 +1,12 @@
 # Procurement & Supplier Performance Analytics Dashboard
 
+Power BI project demonstrating procurement analytics, supplier performance evaluation, and operational KPI reporting using a synthetic manufacturing dataset.
+
+---
+
 ## Overview
 
-An interactive **3-page Power BI dashboard** built to analyze procurement and supplier performance using a synthetic manufacturing dataset.
-
-The project demonstrates business intelligence concepts including:
+This project simulates a procurement analytics solution for a manufacturing company. It was built to demonstrate business intelligence concepts including:
 
 - Star schema data modeling
 - DAX measure development
@@ -15,27 +17,50 @@ The project demonstrates business intelligence concepts including:
 
 ---
 
+## Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](screenshots/Executive%20Summary.png)
+
+---
+
+### Supplier Performance Analysis
+
+![Supplier Performance Analysis](screenshots/Supplier%20Performance%20Analysis.png)
+
+---
+
+### Operational Performance Dashboard
+
+![Operational Performance Dashboard](screenshots/Operational%20Performance%20Dashboard.png)
+
+---
+
 ## Dashboard Pages
 
-### Page 1 – Executive Summary
+### Executive Summary
+
 - Total Spend
 - On-Time Delivery %
 - Defect Rate %
 - Average Lead Time
-- Supplier Score
+- Overall Supplier Score
 - Monthly Spend Trend
 - Spend by Category
 - Top Suppliers
 - Supplier Performance Scorecard
 
-### Page 2 – Supplier Performance Analysis
+### Supplier Performance Analysis
+
 - Top 10 Suppliers
 - Bottom 10 Suppliers
 - Supplier Spend vs Performance Score
 - Procurement Spend by Category (Treemap)
 
-### Page 3 – Operational Performance Dashboard
-- Monthly Procurement Spend Ranking by Category
+### Operational Performance Dashboard
+
+- Monthly Procurement Spend Ranking by Category (Ribbon Chart)
 - Monthly On-Time Delivery Trend
 - Procurement Spend by Defect Type
 
@@ -60,17 +85,17 @@ The report follows a **Star Schema** consisting of:
 - DAX
 - Star Schema Modeling
 - Data Modeling
-- Interactive Dashboards
-- KPI Design
+- KPI Dashboard Design
 - Procurement Analytics
 - Supplier Performance Analysis
+- Interactive Dashboards
 - Data Visualization
 
 ---
 
 ## Files Included
 
-- Procurement & Supplier Performance Analytics Dashboard.pbix
+- Procurement_Supplier_Performance_Analytics_Dashboard.pbix
 - Supplier_Master.xlsx
 - Product_Master.xlsx
 - Purchase_Orders.xlsx
@@ -82,6 +107,6 @@ The report follows a **Star Schema** consisting of:
 
 ## Project Type
 
-Personal Portfolio Project
+**Personal Portfolio Project**
 
-Dataset is fully synthetic and created for learning and portfolio purposes.
+**Note:** All data used in this project is synthetic and created solely for learning and portfolio purposes.
