@@ -110,3 +110,25 @@ The report follows a **Star Schema** consisting of:
 **Personal Portfolio Project**
 
 **Note:** All data used in this project is synthetic and created solely for learning and portfolio purposes.
+
+Project Structure
+
+📂 screenshots/
+    Executive Summary.png
+    Supplier Performance Analysis.png
+    Operational Performance Dashboard.png
+
+📄 Procurement & Supplier Performance Analytics Dashboard.pbix
+
+📄 Product_Master.xlsx
+
+📄 Purchase_Orders.xlsx
+
+📄 Supplier_Master.xlsx
+
+📄 Supplier_Performance_Targets.xlsx
+
+📄 Quality_Inspection.xlsx
+
+📄 Supplier Scorebook.xlsx
+
